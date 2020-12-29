@@ -1,4 +1,8 @@
-"""We are first time to use the GitHub"""
+"""
+We are first time to use the GitHub
+
+Hello world.
+"""
 class CallbackExample:
     def __init__(self):
         self.last_best_value = 0
